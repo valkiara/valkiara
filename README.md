@@ -1,16 +1,28 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+  <img src="assets/banner-light.png" alt="Beka Latsabidze — backend engineering with C#, .NET, and Azure" width="100%">
+</picture>
 
-<!--
-**valkiara/valkiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems and event-driven services with C#, .NET, and Azure, with a focus on document automation and business integrations.
 
-Here are some ideas to get you started:
+### Technologies I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Area | Technologies |
+| :--- | :--- |
+| Backend | C#, .NET, ASP.NET Core |
+| Messaging | MassTransit, Azure Service Bus |
+| Document processing | Azure AI Document Intelligence, Azure OpenAI |
+| Data & storage | Azure Cosmos DB, Azure Blob Storage |
+| Infrastructure | Docker, .NET Aspire, GitHub Actions |
+| Integrations | Microsoft Graph, MailKit, SAP Business One |
+| Testing | xUnit, Moq |
+
+### Open source
+
+- **[QuotaLatch](https://github.com/valkiara/quotalatch)** — Experimental shared budgets for AI workers, built with Python and PostgreSQL.
+- **[SAPB1.SLFramework](https://github.com/valkiara/SAPB1.SLFramework)** — C# tooling for SAP Business One Service Layer integrations.
+
+---
+
+[Explore my repositories →](https://github.com/valkiara?tab=repositories)
